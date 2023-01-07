@@ -1,0 +1,7 @@
+
+
+SelfNote: Need to run locally due to 
+over 6GB data size 
+Colab has kernel dying issues which does not allow finish training for long period.
+
+
